@@ -1,4 +1,4 @@
-**Linguagem de comando HTML**
+**HTML5**
 
 Meus primeiros passos em HTML.
 
